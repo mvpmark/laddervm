@@ -1,6 +1,6 @@
 # laddervm
 
-git clone https://github.com/mvpmark/laddervm
+git clone https://github.com/mvpmark/laddervm.git
 
 cd laddervm
 
